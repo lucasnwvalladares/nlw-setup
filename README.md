@@ -10,6 +10,7 @@ NWL Setup - Rocketseat
 	API RESTful
 	Prisma (ORM)
 	SQLite
+	Zod
 
 ## Front-End
 	Vite
@@ -17,9 +18,11 @@ NWL Setup - Rocketseat
 	TypeScript (TSX)
 	Tailwind
 	PostCSS
+	Phosphor
 
 ## Mobile
 	React Native
 	TypeScript
 	Expo - Expo Go
 	Google Fonts
+	NativeWind
