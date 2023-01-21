@@ -19,10 +19,15 @@ NWL Setup - Rocketseat
 	Tailwind
 	PostCSS
 	Phosphor
+	Radix-ui
+	Clsx
+	Axios
 
 ## Mobile
 	React Native
 	TypeScript
 	Expo - Expo Go
 	Google Fonts
-	NativeWind
+	Native Wind
+	React Navigation
+	Axios
